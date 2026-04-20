@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/mapapi.ts","./src/components/loadingspinner.tsx","./src/components/mapview.tsx","./src/components/routeinfo.tsx","./src/components/searchpanel.tsx","./src/hooks/usegeolocation.ts"],"version":"5.9.3"}
